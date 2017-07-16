@@ -1,0 +1,32 @@
+---
+
+baseURL: "http://taketwo.tylerbutler.com/"
+languageCode: "en-us"
+title: "Take Two"
+theme: "hugo-now"
+
+params:
+  accent: "red"
+  showBorder: true
+  backgroundColor: "white"
+  font: "Quicksand" # should match the name on Google Fonts!
+  highlight: true
+  highlightStyle: "solarized-dark"
+  highlightLanguages: ["go", "haskell", "kotlin", "scala", "swift"]
+
+  menu.main:
+    url: "/"
+    name: "Home"
+    weight: 1
+
+  menu.main:
+      url: "/post/"
+      name: "Posts"
+      weight: 2
+
+  menu.main:
+      url: "/project/"
+      name: "Projects"
+      weight: 3
+
+...

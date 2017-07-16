@@ -1,0 +1,9 @@
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/osprey"]
+	path = themes/osprey
+	url = https://github.com/tomanistor/osprey.git
+[submodule "themes/hugo-now"]
+	path = themes/hugo-now
+	url = https://github.com/mikeblum/hugo-now.git

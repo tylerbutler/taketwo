@@ -1,0 +1,19 @@
+SITE_TITLE: Take Two
+SITE_AUTHOR: 'William & Robin Butler'
+HOME_URL: '/'
+PERMALINK_STYLE: pretty
+
+FEED_FULL_CONTENT: yes
+
+THEME_SETTINGS:
+  typekit_id: vty2qol
+
+POST_TIMEZONE: 'America/Los_Angeles'
+
+DEBUG: no
+PUBLISH_DRAFTS: no
+PUBLISH_PENDING: no
+PUBLISH_REVIEW: no
+
+COMPRESSOR_ENABLED: yes
+PREPROCESS_LESS: yes
