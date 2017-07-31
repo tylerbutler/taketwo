@@ -3,30 +3,29 @@
 baseURL: "http://taketwo.tylerbutler.com/"
 languageCode: "en-us"
 title: "Take Two"
-theme: "hugo-now"
+theme: "dark-rainbow"
 
 params:
-  accent: "red"
-  showBorder: true
-  backgroundColor: "white"
-  font: "Quicksand" # should match the name on Google Fonts!
-  highlight: true
-  highlightStyle: "solarized-dark"
-  highlightLanguages: ["go", "haskell", "kotlin", "scala", "swift"]
+  avatar: "/images/hugo.png"
+  displayauthor: false
+  
+  # pygments
+  PygmentsUseClasses: yes
+  PygmentsCodeFences: yes
 
-  menu.main:
-    url: "/"
-    name: "Home"
-    weight: 1
-
-  menu.main:
-      url: "/post/"
-      name: "Posts"
-      weight: 2
-
-  menu.main:
-      url: "/project/"
-      name: "Projects"
-      weight: 3
-
-...
+  theme:
+    bigfoot:
+      enabled: yes
+    typekit_id: my_typekit
+    sharing:
+      enabled: yes
+      facebook:
+        enabled: yes
+        app_id: my_app_id
+      twitter:
+        enabled: yes
+    comments:
+      enabled: yes
+      provider: "disqus"
+      account: my_account
+      

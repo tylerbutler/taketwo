@@ -2,6 +2,7 @@
 title: Returning to Full-time Translation
 status: published
 timestamp: April 5, 2015
+date: 2015-04-05
 tags:
   - Waran
 ---
