@@ -1,0 +1,34 @@
+{{ define "header_secondary" }}
+    <!-- Intentionally omitted -->
+{{ end }}
+
+{{ define "section_main_content" }}
+    <div class="posts">
+        {{ range .Paginator.Pages }}
+            {{ partial "list-item.html" . }}
+        {{ end }}
+    </div>
+    <div class="row archives">
+        <div class="small-12 columns post-links">
+            <ul class="row">
+                <li class="small-6 medium-4 columns text-left">
+                    {{ if .Paginator.HasNext }}
+                        <a href="{{ .Paginator.Next.URL }}">← older posts</a>
+                    {{ else }}
+                        &nbsp;
+                    {{ end }}
+                </li>
+                <li class="small-6 medium-4 medium-push-4 columns text-right">
+                    {{ if .Paginator.HasPrev }}
+                        <a href="{{ .Paginator.Prev.URL }}">newer posts →</a>
+                    {{ else }}
+                        &nbsp;
+                    {{ end }}
+                </li>
+                <li class="small-12 medium-4 medium-pull-4 small-centered columns text-center">
+                    <a href="FIXME"> &ndash; archives &ndash; </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+{{ end }}

@@ -1,0 +1,85 @@
+<div class="row">
+    <div class="post-info medium-3 large-2 columns">
+        <div class="post-date">
+            <div class="month">{{.Date.Format "Jan" | upper }}</div>
+            <div class="day">{{ .Date.Format "2" }}</div>
+            <div class="year">{{ .Date.Format "2006" }}</div>
+            <div class="permalink">
+                <a href="{{ .Permalink }}" title="Permanent link to '{{ .Title }}'">∞</a>
+            </div>
+        </div>
+        {{ if .Params.via }}
+        <div class="attribution">
+            {{ if .Params.via_link }} via <a href="{{ .Params.via_link }}">{{ .Params.via }}</a> {{ else }} via {{ .Params.via }} {{ end }}
+        </div>
+        {{ end }}
+        {{ if .Params.tags }}
+        <ul class="tags">
+            {{ range .Params.tags }}
+            <li><a href="FIXME">{{ . }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        {{ if .Params.theme.sharing.enabled }}
+        <div class="sharing hide-for-small-only">
+            {{ if .Params.theme.sharing.twitter.enabled }}
+                {{ partial "_twitter_share.html" . }}
+            {{ end }}
+            {{ if and .Params.theme.sharing.facebook.enabled .Params.theme.sharing.facebook.app_id }}
+                {{ partial "_facebook_share.html" . }}
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+
+    {{ $link := (.Params.link) }}
+    <article class="post-content medium-9 large-10 columns">
+        <time datetime="{{ .Date.Format "2006-01-02 MST" }}" pubdate=""></time>
+        <header>
+            <h1>
+                <a href="{{ if $link }}{{ .Params.link }}{{ else }}
+        {{ .URL }}{{ end }}">{{ .Title }}</a> {{ if $link }}<span class="arrow">→</span>{{ end }}
+            </h1>
+        </header>
+        {{ if .Truncated }}
+            {{ .Content }}
+            <div>
+                <a href="{{ .URL }}" class="button">Read more →</a>
+            </div>
+        {{ else }}
+            {{ .Content }}
+        {{ end }}
+        
+        <div class="row">
+            <div class="small-12 columns post-links">
+                <ul class="row">
+                    <li class="small-12 medium-6 columns text-left">
+                        {{ if .Paginator.HasPrev }}
+                            <a href="{{ .Paginator.Prev.URL }}">← {{ .Paginator.Prev.Title }}</a>
+                        {{ else }}
+                            &nbsp;
+                        {{ end }}
+                    </li>
+                    <li class="small-12 medium-6 columns text-right">
+                        {{ if .Paginator.HasNext }}
+                            <a href="{{ .Paginator.Next.URL }}">{{ .Paginator.Next.Title }} →</a>
+                        {{ else }}
+                            &nbsp;
+                        {{ end }}
+                    </li>
+                </ul>
+            </div>
+        </div>
+        {{ if .Params.theme.comments.enabled }}
+            <section id="comments">
+                {{ if ne .Params.theme.comments.provider "intensedebate" }}
+                    <header>
+                        <h1>Comments</h1>
+                    </header>
+                {{ end }}
+                {{ partial "_comments.html" . }}
+            </section>
+        {{ end }}
+    </article>
+</div>
