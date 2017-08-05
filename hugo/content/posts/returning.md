@@ -5,7 +5,6 @@ timestamp: April 5, 2015
 date: 2015-04-05
 tags:
   - Waran
-draft: yes
 ---
 
 God has provided new co-workers to take on the role William has been filling in

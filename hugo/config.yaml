@@ -3,7 +3,13 @@
 baseURL: "http://taketwo.tylerbutler.com/"
 languageCode: "en-us"
 title: "Take Two"
-theme: "dark-rainbow"
+theme: minimo
+
+taxonomies:
+  language: languages
+  # person: people
+  place: places
+  tag: tags
 
 params:
   avatar: "/images/hugo.png"
