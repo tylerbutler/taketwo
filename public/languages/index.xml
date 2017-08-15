@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages on Take Two</title>
+    <link>http://taketwo.tylerbutler.com/languages/</link>
+    <description>Recent content in Languages on Take Two</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://taketwo.tylerbutler.com/languages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waran</title>
+      <link>http://taketwo.tylerbutler.com/languages/waran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/languages/waran/</guid>
+      <description>The Waran language.</description>
+    </item>
+    
+  </channel>
+</rss>
