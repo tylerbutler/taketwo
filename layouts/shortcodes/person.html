@@ -1,0 +1,14 @@
+{{ $person := ((.Get 0) | urlize) }}
+{{ $.Scratch.Set "taxPage" ($.Site.GetPage "taxonomyTerm" "people" $person) }}
+
+{{ if not ($.Scratch.Get "taxPage") }}
+  {{ if (index $.Site.Data.people $person) }}
+    {{ $.Scratch.Set "taxPage" ($.Site.GetPage "taxonomyTerm" "people" (index $.Site.Data.people $person)) }}
+  {{ end }}
+{{ end }}
+
+{{- with ($.Scratch.Get "taxPage") -}}
+  <a href="{{ .URL }}">{{- $.Get 0 -}}</a>
+{{- else -}}
+  {{- .Get 0 -}}
+{{- end -}}

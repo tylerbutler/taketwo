@@ -1,0 +1,3 @@
+---
+showsidebar: yes
+---

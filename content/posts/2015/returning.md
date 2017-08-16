@@ -1,16 +1,16 @@
 ---
 title: Returning to Full-time Translation
-status: published
-timestamp: April 5, 2015
 date: 2015-04-05
-tags:
+languages:
   - Waran
+places:
+  - Likan
 ---
 
 God has provided new co-workers to take on the role William has been filling in
 the PBTPNG Finance Office for the past four years. Even though not much time
 has been spent on Translation during this time in Finance, God has helped
-William and Samuel to make some progress. We are starting a new phase – as
+William and Samuel to make some progress. We are starting a new phase -- as
 of February 2015 our full attention has returned to the Waran Translation.
 
 **Please rejoice with us.**

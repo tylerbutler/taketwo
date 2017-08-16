@@ -3,35 +3,36 @@
 baseURL: "http://taketwo.tylerbutler.com/"
 languageCode: "en-us"
 title: "Take Two"
-theme: minimo
+theme: dark_rainbow
+Paginate: 3
+
+permalinks:
+  pages: /:slug/
+  posts: /:year/:month/:slug/
 
 taxonomies:
   language: languages
-  # person: people
+  person: people
   place: places
   tag: tags
+  storyline: storylines
 
 params:
-  avatar: "/images/hugo.png"
-  displayauthor: false
-  
-  # pygments
-  PygmentsUseClasses: yes
-  PygmentsCodeFences: yes
-
   theme:
     bigfoot:
       enabled: yes
-    typekit_id: my_typekit
+    typekit_id: vty2qol
     sharing:
-      enabled: yes
+      enabled: no
       facebook:
         enabled: yes
-        app_id: my_app_id
+        app_id: '298536070167430'
       twitter:
         enabled: yes
+        username: tylerbutler
     comments:
       enabled: yes
       provider: "disqus"
       account: my_account
-      
+
+sectionPagesMenu: main

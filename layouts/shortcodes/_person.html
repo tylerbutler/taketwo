@@ -1,0 +1,29 @@
+<!-- {{ $.Scratch.Set "person" ((.Get 0) | urlize) }} -->
+{{ $person := ((.Get 0) | urlize) }}
+<!-- {{ $taxPage := ($.Site.GetPage "taxonomyTerm" "people" $person) }} -->
+{{ $.Scratch.Set "taxPage" ($.Site.GetPage "taxonomyTerm" "people" $person) }}
+
+  <!-- {{ printf "%#v" ($.Scratch.Get "person") }} -->
+<!-- {{ with (index $.Site.Data.people ($.Scratch.Get "person")) }}
+  {{ $.Scratch.Set "person" . }}
+{{ end }} -->
+
+<!-- {{ printf "%#v" $.Site.Data.people }} -->
+
+{{ if not ($.Scratch.Get "taxPage") }}
+   <!-- {{ printf "%#v" "GOT HERE" }} -->
+  <!-- {{ printf "%#v" (index $.Site.Data.people $person) }} -->
+  {{ $.Scratch.Set "taxPage" ($.Site.GetPage "taxonomyTerm" "people" (index $.Site.Data.people $person)) }}
+{{ end }}
+
+<!-- {{ printf "%#v" ($.Site.GetPage "taxonomyTerm" "people" $person) }} -->
+<!-- {{ printf "%#v" ($.Site.GetPage "taxonomyTerm" "people") }} -->
+<!-- {{ printf "%#v" (index $.Site.Taxonomies "people") }} -->
+<!-- {{ printf "%#v" (where ($.Site.GetPage "taxonomy" "people").Pages "Samuel" "in" ".Params.shortcuts") }} -->
+ <!-- {{ printf "%#v" ($.Scratch.Get "taxPage") }} -->
+ {{ with ($.Scratch.Get "taxPage") }}
+ <!-- {{ printf "%#v" . }} -->
+  <a href="{{ .URL }}">{{ $.Get 0 }}</a>
+  <!-- {{ printf "%#v" .Title }} -->
+{{end}}
+
