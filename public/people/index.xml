@@ -1,19 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peoples on Take Two</title>
+    <title>People on Take Two</title>
     <link>http://taketwo.tylerbutler.com/people/</link>
-    <description>Recent content in Peoples on Take Two</description>
+    <description>Recent content in People on Take Two</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://taketwo.tylerbutler.com/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bethaney Butler</title>
+      <link>http://taketwo.tylerbutler.com/people/bethaney-butler/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/bethaney-butler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Robinson</title>
+      <link>http://taketwo.tylerbutler.com/people/david-robinson/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/david-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenny</title>
+      <link>http://taketwo.tylerbutler.com/people/kenny/</link>
+      <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/kenny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konamby</title>
+      <link>http://taketwo.tylerbutler.com/people/konamby/</link>
+      <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/konamby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leo Wangamu</title>
+      <link>http://taketwo.tylerbutler.com/people/leo-wangamu/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/leo-wangamu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morex</title>
+      <link>http://taketwo.tylerbutler.com/people/morex/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/morex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moses</title>
+      <link>http://taketwo.tylerbutler.com/people/moses/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/moses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muguro</title>
+      <link>http://taketwo.tylerbutler.com/people/muguro/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/muguro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robin Butler</title>
+      <link>http://taketwo.tylerbutler.com/people/robin-butler/</link>
+      <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/robin-butler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Sangon</title>
+      <link>http://taketwo.tylerbutler.com/people/samuel-sangon/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/samuel-sangon/</guid>
+      <description> Some information about Samuel </description>
+    </item>
+    
+    <item>
+      <title>Shem</title>
+      <link>http://taketwo.tylerbutler.com/people/shem/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/shem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wes Beasly</title>
+      <link>http://taketwo.tylerbutler.com/people/wes-beasly/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/people/wes-beasly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>William Butler</title>
       <link>http://taketwo.tylerbutler.com/people/william-butler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://taketwo.tylerbutler.com/people/william-butler/</guid>
       <description> Some information about William </description>

@@ -3,106 +3,439 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/posts/2016-09-04/</loc>
+    <loc>http://taketwo.tylerbutler.com/2016/09/september-4-2016/</loc>
     <lastmod>2016-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/posts/2016-08-28/</loc>
+    <loc>http://taketwo.tylerbutler.com/2016/08/august-28-2016/</loc>
     <lastmod>2016-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/posts/returning/</loc>
+    <loc>http://taketwo.tylerbutler.com/2016/01/january-17-2016/</loc>
+    <lastmod>2016-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/12/merry-christmas/</loc>
+    <lastmod>2015-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/09/september-6-2015/</loc>
+    <lastmod>2015-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/08/august-30-2015/</loc>
+    <lastmod>2015-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/08/august-16-2015/</loc>
+    <lastmod>2015-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/08/august-9-2015/</loc>
+    <lastmod>2015-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/08/august-2-2015/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/07/july-26-2015/</loc>
+    <lastmod>2015-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/07/july-19-2015/</loc>
+    <lastmod>2015-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/07/july-12-2015/</loc>
+    <lastmod>2015-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/07/july-5-2015/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/06/june-28-2015/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/06/june-21-2015/</loc>
+    <lastmod>2015-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/06/june-14-2015/</loc>
+    <lastmod>2015-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/06/june-7-2015/</loc>
+    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/05/may-31-2015/</loc>
+    <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/05/update-on-prayer-for-samuel-sangon--family/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/05/may-24-2015/</loc>
+    <lastmod>2015-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/05/may-17-2015/</loc>
+    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/05/may-10-2015/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/05/my-word-will-not-return-to-me-empty./</loc>
+    <lastmod>2015-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/04/little-things-matter/</loc>
+    <lastmod>2015-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/04/april-19-2015/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/04/april-12-2015/</loc>
+    <lastmod>2015-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/2015/04/he-is-risen/</loc>
     <lastmod>2015-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/languages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/languages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/places/likan/</loc>
-    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/places/likan/</loc>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/places/madang/</loc>
-    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/places/madang/</loc>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/people/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/people/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/places/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/places/</loc>
-    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/posts/</loc>
-    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://taketwo.tylerbutler.com/tags/</loc>
-    <priority>0</priority>
+    <loc>http://taketwo.tylerbutler.com/2015/04/returning-to-full-time-translation/</loc>
+    <lastmod>2015-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://taketwo.tylerbutler.com/</loc>
     <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/posts/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/2015-interns/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/tags/waran/</loc>
+    <loc>http://taketwo.tylerbutler.com/tags/agm/</loc>
+    <lastmod>2016-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/places/angoram/</loc>
+    <lastmod>2015-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/bethaney-butler/</loc>
+    <lastmod>2015-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/places/cairns/</loc>
+    <lastmod>2015-09-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/tags/christmas/</loc>
+    <lastmod>2015-12-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/churches-of-christ-convention-2015/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/consultant-checking/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/consultant-checking-john/</loc>
+    <lastmod>2015-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/consultant-checking-jude/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/consultant-checking-romans/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/david-robinson/</loc>
+    <lastmod>2015-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/tags/easter/</loc>
     <lastmod>2015-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/furlough-2015/</loc>
+    <lastmod>2016-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/kenny/</loc>
+    <lastmod>2016-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/kenny-tb/</loc>
+    <lastmod>2016-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/places/klorowom/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/konamby/</loc>
+    <lastmod>2015-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/languages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/leo-wangamu/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/places/likan/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/likan-airstrip-maintenance/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/places/madang/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/languages/mborena-kam/</loc>
+    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/mborena-kam-translation/</loc>
+    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/morex/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/moses/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/muguro/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/new-testament-advisor-check/</loc>
+    <lastmod>2016-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/tags/packing/</loc>
+    <lastmod>2015-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/</loc>
+    <lastmod>2015-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/places/</loc>
+    <lastmod>2015-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/tags/plane-day/</loc>
+    <lastmod>2015-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/robin-butler/</loc>
+    <lastmod>2016-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/robins-celiac/</loc>
+    <lastmod>2015-09-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/salons-death/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/samuel-sangon/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/shem/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/posts/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/tags/</loc>
+    <lastmod>2016-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/tags/tb/</loc>
+    <lastmod>2016-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/languages/tok-pisin/</loc>
+    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/posts/tags/tb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/storylines/village-checking-james/</loc>
+    <lastmod>2015-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://taketwo.tylerbutler.com/languages/waran/</loc>
     <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://taketwo.tylerbutler.com/people/wes-beasly/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/languages/waran/</loc>
+    <loc>http://taketwo.tylerbutler.com/people/william-butler/</loc>
+    <lastmod>2016-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://taketwo.tylerbutler.com/people/william-butler/</loc>
+    <loc>http://taketwo.tylerbutler.com/places/yar/</loc>
+    <lastmod>2015-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

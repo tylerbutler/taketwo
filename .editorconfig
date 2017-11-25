@@ -10,6 +10,6 @@ insert_final_newline = true
 indent_style = space
 indent_size = 4
 
-[*.{json,html,yaml}]
+[*.{json,html,yaml,md,markdown,mdown}]
 indent_style = space
 indent_size = 2

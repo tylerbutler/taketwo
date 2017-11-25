@@ -5,6 +5,8 @@ languages:
   - Waran
 places:
   - Likan
+storylines:
+  - Likan Airstrip Maintenance
 ---
 
 God has provided new co-workers to take on the role William has been filling in

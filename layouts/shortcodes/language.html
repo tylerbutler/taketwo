@@ -1,5 +1,10 @@
 {{ $var := (.Get 0 | urlize) }}
 
-{{ range ($.Site.GetPage "taxonomyTerm" "languages" $var).Pages }}
-  <a href="/languages/">{{ if .Inner }}{{ .Inner }}{{ else }}{{ .Get 0 }}{{ end }}</a>
-{{ end }}
+{{ $var := ((.Get 0) | urlize) }}
+{{ $.Scratch.Set "taxPage" ($.Site.GetPage "taxonomyTerm" "languages" $var) }}
+
+{{- with ($.Scratch.Get "taxPage") -}}
+  <a href="{{ .URL }}">{{- $.Get 0 -}}</a>
+{{- else -}}
+  {{- .Get 0 -}}
+{{- end -}}

@@ -6,10 +6,37 @@
     <description>Recent content in Places on Take Two</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://taketwo.tylerbutler.com/places/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angoram</title>
+      <link>http://taketwo.tylerbutler.com/places/angoram/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/places/angoram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cairns</title>
+      <link>http://taketwo.tylerbutler.com/places/cairns/</link>
+      <pubDate>Sun, 06 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/places/cairns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klorowom</title>
+      <link>http://taketwo.tylerbutler.com/places/klorowom/</link>
+      <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/places/klorowom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Likan</title>
@@ -26,6 +53,15 @@
       <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://taketwo.tylerbutler.com/places/madang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yar</title>
+      <link>http://taketwo.tylerbutler.com/places/yar/</link>
+      <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://taketwo.tylerbutler.com/places/yar/</guid>
       <description></description>
     </item>
     
