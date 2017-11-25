@@ -3,7 +3,7 @@
 baseURL: "http://taketwo.tylerbutler.com/"
 languageCode: "en-us"
 title: "Take Two"
-theme: dark_rainbow
+theme: taketwo
 Paginate: 3
 enableEmoji: yes
 
