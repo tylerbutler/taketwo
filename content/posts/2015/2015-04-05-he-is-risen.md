@@ -6,7 +6,6 @@ languages: [Waran]
 tags: [Easter]
 ---
 
-
 > The Sabbath day finished and on Sunday the sun wanted to come up. And Mary, the woman from Makdala village, and another Mary both went, wanting to see the corpse village.
 > They did that and one of the Big (One)'s messengers left heaven and came down. He did that and that mother earthquake [a large quake] immediately happened. It did that and he went to the stone that was hiding the corpse hole door and rolled it away and put it to the side and sat on it. And he himself shined like lightning that flashes. And those clothes of his were very white.
 > He did that and the fight-men who remained there and remained watching over the corpse village, they did very big fear of him. They did that and their bodies shook and they fell completely down. They did that and they remained there like people who had died.

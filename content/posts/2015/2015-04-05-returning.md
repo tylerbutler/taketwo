@@ -59,10 +59,10 @@ toward these projects?
 
 ## Take Two prayer requests
 
-1. A consultant from the US is here to check the book of John. Pray the
-Waran checking team will arrive as scheduled on Wednesday April 8th.
-The session will start on the 9th.
+1.  A consultant from the US is here to check the book of John. Pray the
+    Waran checking team will arrive as scheduled on Wednesday April 8th.
+    The session will start on the 9th.
 
-2. Pray for William as he continues to translate the Waran book of Romans back
-into English. This is needed for the consultant who plans to check that book
-in June.
+2.  Pray for William as he continues to translate the Waran book of Romans back
+    into English. This is needed for the consultant who plans to check that book
+    in June.
