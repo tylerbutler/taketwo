@@ -1,0 +1,22 @@
+{
+  "name": "taketwo",
+  "version": "0.0.1",
+  "description": "taketwo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerbutler/taketwo.git"
+  },
+  "author": "Tyler Butler <tyler@tylerbutler.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerbutler/taketwo/issues"
+  },
+  "homepage": "https://github.com/tylerbutler/taketwo#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
