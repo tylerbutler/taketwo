@@ -4,8 +4,12 @@ baseURL: "http://taketwo.tylerbutler.com/"
 languageCode: "en-us"
 title: "Take Two"
 theme: taketwo
-Paginate: 3
+Paginate: 4
 enableEmoji: yes
+
+# staticDir:
+#   - 'themes/taketwo/semantic/dist'
+#   - 'static'
 
 permalinks:
   pages: /:slug/
@@ -19,21 +23,6 @@ taxonomies:
   storyline: storylines
 
 params:
-  theme:
-    bigfoot:
-      enabled: yes
-    typekit_id: vty2qol
-    sharing:
-      enabled: no
-      facebook:
-        enabled: yes
-        app_id: '298536070167430'
-      twitter:
-        enabled: yes
-        username: tylerbutler
-    comments:
-      enabled: yes
-      provider: "disqus"
-      account: my_account
+  description: "The Butlers in PNG"
 
 sectionPagesMenu: main
