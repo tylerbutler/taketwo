@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/tylerbutler/taketwo#readme",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-remark": "^4.0.2",
+    "remark-heading-gap": "^3.0.0",
+    "remark-html": "^7.0.0",
+    "remark-lint": "^6.0.1",
+    "remark-lint-first-heading-level": "^1.1.1",
+    "remark-shortcodes": "^0.1.4",
+    "remark-squeeze-paragraphs": "^3.0.1"
   }
 }
