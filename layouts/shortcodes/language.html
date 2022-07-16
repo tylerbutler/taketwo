@@ -1,10 +1,10 @@
 {{ $var := (.Get 0 | urlize) }}
 
 {{ $var := ((.Get 0) | urlize) }}
-{{ $.Scratch.Set "taxPage" ($.Site.GetPage "taxonomyTerm" "languages" $var) }}
+{{ $.Scratch.Set "taxPage" ($.Site.GetPage (path.Join "languages" $var)) }}
 
 {{- with ($.Scratch.Get "taxPage") -}}
-  <a href="{{ .URL }}">{{- $.Get 0 -}}</a>
+  <a href="{{ .RelPermalink }}">{{- $.Get 0 -}}</a>
 {{- else -}}
   {{- .Get 0 -}}
 {{- end -}}
