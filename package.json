@@ -2,23 +2,24 @@
   "name": "taketwo",
   "version": "0.0.1",
   "description": "taketwo",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/tylerbutler/taketwo#readme",
+  "bugs": {
+    "url": "https://github.com/tylerbutler/taketwo/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tylerbutler/taketwo.git"
   },
-  "author": "Tyler Butler <tyler@tylerbutler.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tylerbutler/taketwo/issues"
+  "author": "Tyler Butler <tyler@tylerbutler.com>",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/tylerbutler/taketwo#readme",
   "dependencies": {
-    "chalk": "^2.3.0",
-    "fancy-log": "^1.3.2",
+    "chalk": "^2.4.2",
+    "fancy-log": "^1.3.3",
     "gray-matter": "^3.1.1",
     "gulp": "^3.9.1",
     "gulp-data": "^1.3.1",
@@ -26,21 +27,24 @@
     "gulp-filter": "^5.1.0",
     "gulp-format-md": "^1.0.0",
     "gulp-gray-matter": "^3.0.1",
-    "gulp-load-plugins": "^1.5.0",
+    "gulp-load-plugins": "^1.6.0",
     "gulp-remark": "^4.0.2",
     "gulp-size": "^3.0.0",
     "gulp-tap": "^1.0.1",
-    "js-yaml": "^3.10.0",
-    "moment": "^2.20.1",
-    "remark-heading-gap": "^3.0.0",
+    "js-yaml": "^3.14.1",
+    "moment": "^2.29.4",
+    "remark-heading-gap": "^3.1.2",
     "remark-html": "^7.0.0",
-    "remark-lint": "^6.0.1",
-    "remark-lint-first-heading-level": "^1.1.1",
-    "remark-preset-lint-markdown-style-guide": "^2.1.1",
-    "remark-shortcodes": "^0.1.4",
-    "remark-squeeze-paragraphs": "^3.0.1",
+    "remark-lint": "^6.0.6",
+    "remark-lint-first-heading-level": "^1.1.5",
+    "remark-preset-lint-markdown-style-guide": "^2.1.4",
+    "remark-shortcodes": "^0.3.1",
+    "remark-squeeze-paragraphs": "^3.0.4",
     "speakingurl": "^14.0.1",
-    "through2": "^2.0.3"
+    "through2": "^2.0.5"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "overrides": {
+    "graceful-fs": "^4.2.9"
+  }
 }
